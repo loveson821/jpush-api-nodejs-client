@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/jpush/jpush-api-nodejs-client.svg?branch=master)](https://travis-ci.org/jpush/jpush-api-nodejs-client)
 
+# 刪除 ios badge 只能為 number 的檢查, 方便使用 "+1" 設置 badge
+
 # JPush API client library for Node.js
 
 ## 概述
